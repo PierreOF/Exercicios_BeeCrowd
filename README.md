@@ -1,2 +1,2 @@
 # Exercicios_BeeCrowd
-Exercícios feito na plataforma BeeCrowd
+Exercícios feitos na plataforma BeeCrowd
