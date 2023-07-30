@@ -13,5 +13,5 @@ cidades = {
 
 try:
     print(cidades[DDD])
-except:
+except KeyError:
     print("DDD nao cadastrado")
