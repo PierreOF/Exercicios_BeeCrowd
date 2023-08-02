@@ -3,14 +3,10 @@
 public class BC1047 {
     public static void main(String[] args) {
 
-        //teste
+        int teste;
+        teste = 12;
+        System.out.println(teste);
 
-        int teste ;
 
     }
 }
-
-
-
-
-
